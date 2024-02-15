@@ -9,3 +9,4 @@ const StockSchema = new Schema({
 const Stock = mongoose.model("Stock",StockSchema);
 exports.Stock = Stock;
 
+ 
